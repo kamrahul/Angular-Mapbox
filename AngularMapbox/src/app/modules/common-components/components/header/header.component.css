@@ -1,0 +1,7 @@
+.sticky{
+  /*Main propeties*/
+  position:sticky;
+  top: 0px;
+  text-align:center;
+  font-size:18px;
+  }
